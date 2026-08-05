@@ -1,0 +1,10 @@
+.activity-log__timestamp {
+  font-size: 0.85rem;
+  color: #6b7280;
+  white-space: nowrap;
+}
+
+.activity-log__timestamp--local {
+  cursor: help;
+  border-bottom: 1px dotted #9ca3af;
+}
