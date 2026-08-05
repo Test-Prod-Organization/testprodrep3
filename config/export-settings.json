@@ -1,0 +1,8 @@
+{
+  "csv_export": {
+    "max_rows": 10000,
+    "default_delimiter": ",",
+    "encoding": "utf-8",
+    "include_headers": true
+  }
+}
