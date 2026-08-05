@@ -1,0 +1,21 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "success": "Operation completed successfully"
+  },
+  "auth": {
+    "login": "Sign In",
+    "logout": "Sign Out",
+    "forgot_password": "Forgot Password?"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back, {{name}}",
+    "no_data": "No data available"
+  }
+}
